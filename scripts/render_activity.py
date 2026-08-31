@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 LOGIN = os.getenv("PROFILE_LOGIN", "omarfh111")
 TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
-OUT = os.getenv("ACTIVITY_OUT", "assets/activity.svg")
+OUT = os.getenv("ACTIVITY_OUT", "assets/activity-gradient.svg")
 QUERY = """query($login:String!){user(login:$login){contributionsCollection{
 totalCommitContributions totalPullRequestContributions totalRepositoryContributions
 contributionCalendar{totalContributions weeks{contributionDays{date contributionCount weekday}}}
