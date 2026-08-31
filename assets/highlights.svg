@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering highlights</title>
+  <desc id="desc">Highlights across governed agents, computer vision services, testing and hackathon results.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a2135"/><stop offset="1" stop-color="#0b1830"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#36d1dc"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="20" fill="#04111f"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <g transform="translate(20 20)"><rect width="275" height="110" rx="14" fill="url(#card)" stroke="#173b55"/><rect x="18" y="18" width="42" height="4" rx="2" fill="url(#line)"/><text x="18" y="60" fill="#f5fbff" font-size="24" font-weight="700">Governed agents</text><text x="18" y="88" fill="#91a7bd" font-size="15">Evidence · review · approval</text></g>
+    <g transform="translate(315 20)"><rect width="275" height="110" rx="14" fill="url(#card)" stroke="#173b55"/><rect x="18" y="18" width="42" height="4" rx="2" fill="url(#line)"/><text x="18" y="60" fill="#f5fbff" font-size="24" font-weight="700">12 AI services</text><text x="18" y="88" fill="#91a7bd" font-size="15">Vision · retrieval · analytics</text></g>
+    <g transform="translate(610 20)"><rect width="275" height="110" rx="14" fill="url(#card)" stroke="#173b55"/><rect x="18" y="18" width="42" height="4" rx="2" fill="url(#line)"/><text x="18" y="60" fill="#f5fbff" font-size="24" font-weight="700">56 passing tests</text><text x="18" y="88" fill="#91a7bd" font-size="15">Guardrails under verification</text></g>
+    <g transform="translate(905 20)"><rect width="275" height="110" rx="14" fill="url(#card)" stroke="#173b55"/><rect x="18" y="18" width="42" height="4" rx="2" fill="url(#line)"/><text x="18" y="60" fill="#f5fbff" font-size="24" font-weight="700">Top 4 · Top 8</text><text x="18" y="88" fill="#91a7bd" font-size="15">Hackathon recognition</text></g>
+  </g>
+</svg>
+
