@@ -1,5 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Measured project evidence">
-  <defs><linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0F1D32"/><stop offset="1" stop-color="#091321"/></linearGradient><linearGradient id="acc"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs><rect width="1200" height="220" rx="14" fill="#060B16"/>
-  <g font-family="Segoe UI,Arial,sans-serif"><g transform="translate(20 18)"><rect width="275" height="184" rx="12" fill="url(#card)" stroke="#1E334B"/><rect width="275" height="3" rx="2" fill="url(#acc)"/><text x="20" y="38" fill="#64748B" font-size="11" font-weight="700" letter-spacing="1.8">LINEAGEGUARD</text><text x="20" y="92" fill="#F8FAFC" font-size="41" font-weight="700">16 / 16</text><text x="20" y="119" fill="#A6B7CC" font-size="13">claims supported in live proof</text><text x="20" y="153" fill="#6EE7B7" font-size="12">exact source + citation</text></g><g transform="translate(315 18)"><rect width="275" height="184" rx="12" fill="url(#card)" stroke="#1E334B"/><rect width="275" height="3" rx="2" fill="url(#acc)"/><text x="20" y="38" fill="#64748B" font-size="11" font-weight="700" letter-spacing="1.8">GABESI AIGUARDIAN</text><text x="20" y="92" fill="#F8FAFC" font-size="41" font-weight="700">56</text><text x="20" y="119" fill="#A6B7CC" font-size="13">passing tests</text><text x="20" y="153" fill="#7DD3FC" font-size="12">4-layer guardrails</text></g><g transform="translate(610 18)"><rect width="275" height="184" rx="12" fill="url(#card)" stroke="#1E334B"/><rect width="275" height="3" rx="2" fill="url(#acc)"/><text x="20" y="38" fill="#64748B" font-size="11" font-weight="700" letter-spacing="1.8">NUTRIAI RAG EVAL</text><text x="20" y="88" fill="#F8FAFC" font-size="34" font-weight="700">.780 <tspan fill="#475569" font-size="22">/</tspan> .771</text><text x="20" y="119" fill="#A6B7CC" font-size="13">relevance / faithfulness</text><text x="20" y="153" fill="#7DD3FC" font-size="12">51 refined QA pairs</text></g><g transform="translate(905 18)"><rect width="275" height="184" rx="12" fill="url(#card)" stroke="#1E334B"/><rect width="275" height="3" rx="2" fill="url(#acc)"/><text x="20" y="38" fill="#64748B" font-size="11" font-weight="700" letter-spacing="1.8">BARONSMARKET</text><text x="20" y="92" fill="#F8FAFC" font-size="41" font-weight="700">12</text><text x="20" y="119" fill="#A6B7CC" font-size="13">AI + vision services</text><text x="20" y="153" fill="#7DD3FC" font-size="12">one operational platform</text></g></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 235" width="1200" height="235" role="img" aria-label="Evidence ledger across selected projects">
+  <defs><linearGradient id="line"><stop stop-color="#2DD4BF"/><stop offset=".5" stop-color="#5EEAD4"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+  <rect width="1200" height="235" rx="18" fill="#07110F"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="38" fill="#82958E" font-size="11" font-weight="700" letter-spacing="2.2">EVIDENCE LEDGER · NUMBERS BACKED BY REPOSITORY ARTIFACTS</text>
+    <path d="M73 102H1127" stroke="url(#line)" stroke-width="3"/>
+    <g transform="translate(75 102)">
+      <circle r="12" fill="#07110F" stroke="#2DD4BF" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F5F7ED" font-size="30" font-weight="750">16/16</text><text x="0" y="43" text-anchor="middle" fill="#5EEAD4" font-size="11" font-weight="700">LINEAGEGUARD</text><text x="0" y="64" text-anchor="middle" fill="#82958E" font-size="11">live claims cited</text>
+    </g>
+    <g transform="translate(425 102)">
+      <circle r="12" fill="#07110F" stroke="#2DD4BF" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F5F7ED" font-size="30" font-weight="750">56</text><text x="0" y="43" text-anchor="middle" fill="#5EEAD4" font-size="11" font-weight="700">GABESI AIGUARDIAN</text><text x="0" y="64" text-anchor="middle" fill="#82958E" font-size="11">passing tests</text>
+    </g>
+    <g transform="translate(775 102)">
+      <circle r="12" fill="#07110F" stroke="#F59E0B" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F5F7ED" font-size="27" font-weight="750">.780 / .771</text><text x="0" y="43" text-anchor="middle" fill="#FBBF24" font-size="11" font-weight="700">NUTRIAI RAG EVAL</text><text x="0" y="64" text-anchor="middle" fill="#82958E" font-size="11">relevance / faithfulness</text>
+    </g>
+    <g transform="translate(1125 102)">
+      <circle r="12" fill="#07110F" stroke="#F59E0B" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F5F7ED" font-size="30" font-weight="750">12</text><text x="0" y="43" text-anchor="middle" fill="#FBBF24" font-size="11" font-weight="700">BARONSMARKET</text><text x="0" y="64" text-anchor="middle" fill="#82958E" font-size="11">AI + vision services</text>
+    </g>
+    <rect x="28" y="207" width="1144" height="2" rx="1" fill="#25453B"/>
+    <text x="28" y="224" fill="#47635A" font-size="10">proof over polish · measured behavior over plausible demos</text>
+  </g>
 </svg>
 
