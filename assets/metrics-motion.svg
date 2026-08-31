@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 235" width="1200" height="235" role="img" aria-label="Evidence ledger across selected projects">
+  <defs><linearGradient id="line"><stop stop-color="#A855F7"/><stop offset=".5" stop-color="#C084FC"/><stop offset="1" stop-color="#F43F5E"/></linearGradient></defs>
+  <rect width="1200" height="235" rx="18" fill="#0B0714"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="38" fill="#9D8BAC" font-size="11" font-weight="700" letter-spacing="2.2">EVIDENCE LEDGER · NUMBERS BACKED BY REPOSITORY ARTIFACTS</text>
+    <path d="M73 102H1127" stroke="url(#line)" stroke-width="3" stroke-dasharray="8 5">
+      <animate attributeName="stroke-dashoffset" values="0;-26" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#F8F7FC">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M73 102H1127"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <g transform="translate(75 102)">
+      <circle r="12" fill="#0B0714" stroke="#A855F7" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F8F7FC" font-size="30" font-weight="750">16/16</text><text x="0" y="43" text-anchor="middle" fill="#C084FC" font-size="11" font-weight="700">LINEAGEGUARD</text><text x="0" y="64" text-anchor="middle" fill="#9D8BAC" font-size="11">live claims cited</text>
+    </g>
+    <g transform="translate(425 102)">
+      <circle r="12" fill="#0B0714" stroke="#A855F7" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F8F7FC" font-size="30" font-weight="750">56</text><text x="0" y="43" text-anchor="middle" fill="#C084FC" font-size="11" font-weight="700">GABESI AIGUARDIAN</text><text x="0" y="64" text-anchor="middle" fill="#9D8BAC" font-size="11">passing tests</text>
+    </g>
+    <g transform="translate(775 102)">
+      <circle r="12" fill="#0B0714" stroke="#F43F5E" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F8F7FC" font-size="27" font-weight="750">.780 / .771</text><text x="0" y="43" text-anchor="middle" fill="#FB7185" font-size="11" font-weight="700">NUTRIAI RAG EVAL</text><text x="0" y="64" text-anchor="middle" fill="#9D8BAC" font-size="11">relevance / faithfulness</text>
+    </g>
+    <g transform="translate(1125 102)">
+      <circle r="12" fill="#0B0714" stroke="#F43F5E" stroke-width="4"/><text x="0" y="-27" text-anchor="middle" fill="#F8F7FC" font-size="30" font-weight="750">12</text><text x="0" y="43" text-anchor="middle" fill="#FB7185" font-size="11" font-weight="700">BARONSMARKET</text><text x="0" y="64" text-anchor="middle" fill="#9D8BAC" font-size="11">AI + vision services</text>
+    </g>
+    <g fill="none" stroke-width="2">
+      <circle cx="75" cy="102" r="17" stroke="#A855F7"><animate attributeName="r" values="14;22;14" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="425" cy="102" r="17" stroke="#A855F7"><animate attributeName="r" values="14;22;14" dur="3s" begin=".7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin=".7s" repeatCount="indefinite"/></circle>
+      <circle cx="775" cy="102" r="17" stroke="#F43F5E"><animate attributeName="r" values="14;22;14" dur="3s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="1.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1125" cy="102" r="17" stroke="#F43F5E"><animate attributeName="r" values="14;22;14" dur="3s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin="2.1s" repeatCount="indefinite"/></circle>
+    </g>
+    <rect x="28" y="207" width="1144" height="2" rx="1" fill="#3B214F"/>
+    <text x="28" y="224" fill="#5B416B" font-size="10">proof over polish · measured behavior over plausible demos</text>
+  </g>
+</svg>
+
