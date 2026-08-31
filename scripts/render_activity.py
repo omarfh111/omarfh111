@@ -52,7 +52,7 @@ def render(data):
     ]
     busiest_week = max(weekly, default=0)
 
-    colors = ["#0B1526", "#103552", "#12648F", "#1E93C9", "#38BDF8"]
+    colors = ["#0C1915", "#123B31", "#157A68", "#20A58F", "#2DD4BF"]
 
     def color(value):
         if not value:
@@ -63,20 +63,20 @@ def render(data):
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" '
         'width="1200" height="520" role="img" aria-label="Public GitHub activity">',
-        '<defs><linearGradient id="accent"><stop stop-color="#38BDF8"/>'
-        '<stop offset="1" stop-color="#8B5CF6"/></linearGradient>'
+        '<defs><linearGradient id="accent"><stop stop-color="#2DD4BF"/>'
+        '<stop offset="1" stop-color="#F59E0B"/></linearGradient>'
         '<linearGradient id="area" x1="0" y1="0" x2="0" y2="1">'
-        '<stop stop-color="#38BDF8" stop-opacity=".25"/>'
-        '<stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient></defs>',
-        '<rect width="1200" height="520" rx="16" fill="#060B16"/>',
+        '<stop stop-color="#2DD4BF" stop-opacity=".25"/>'
+        '<stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></linearGradient></defs>',
+        '<rect width="1200" height="520" rx="16" fill="#07110F"/>',
         '<rect width="1200" height="3" fill="url(#accent)"/>',
         '<g font-family="Segoe UI,Arial,sans-serif">',
-        '<text x="28" y="40" fill="#64748B" font-size="12" font-weight="700" '
+        '<text x="28" y="40" fill="#82958E" font-size="12" font-weight="700" '
         'letter-spacing="2">PUBLIC CONTRIBUTION ACTIVITY · LAST 12 MONTHS</text>',
-        f'<text x="28" y="82" fill="#F8FAFC" font-size="30" font-weight="700">'
-        f'{calendar["totalContributions"]}<tspan fill="#64748B" font-size="14" '
+        f'<text x="28" y="82" fill="#F5F7ED" font-size="30" font-weight="700">'
+        f'{calendar["totalContributions"]}<tspan fill="#82958E" font-size="14" '
         'font-weight="400"> contributions</tspan></text>',
-        '<text x="1172" y="40" text-anchor="end" fill="#334155" font-size="10">'
+        '<text x="1172" y="40" text-anchor="end" fill="#47635A" font-size="10">'
         'self-hosted · rebuilt daily by GitHub Actions</text>',
     ]
 
@@ -90,7 +90,7 @@ def render(data):
             if day["date"][8:] <= "07" and month not in month_seen:
                 label = datetime.strptime(month, "%m").strftime("%b")
                 parts.append(
-                    f'<text x="{x}" y="108" fill="#475569" font-size="10">{label}</text>'
+                    f'<text x="{x}" y="108" fill="#607A71" font-size="10">{label}</text>'
                 )
                 month_seen.add(month)
             parts.append(
@@ -111,10 +111,10 @@ def render(data):
         x = 28 + index * 192
         parts.append(
             f'<rect x="{x}" y="260" width="180" height="74" rx="10" '
-            'fill="#0D1B30" stroke="#1E334B"/>'
-            f'<text x="{x + 14}" y="286" fill="#64748B" font-size="10" '
+            'fill="#10201B" stroke="#25453B"/>'
+            f'<text x="{x + 14}" y="286" fill="#82958E" font-size="10" '
             f'font-weight="700" letter-spacing="1.3">{name}</text>'
-            f'<text x="{x + 14}" y="318" fill="#E2E8F0" font-size="22" '
+            f'<text x="{x + 14}" y="318" fill="#E8EDE6" font-size="22" '
             f'font-weight="700">{value}</text>'
         )
 
@@ -129,14 +129,14 @@ def render(data):
     area = f"{graph_x},{graph_y + graph_h} {line} {graph_x + graph_w},{graph_y + graph_h}"
     parts.extend([
         f'<polygon points="{area}" fill="url(#area)"/>',
-        f'<polyline points="{line}" fill="none" stroke="#38BDF8" '
+        f'<polyline points="{line}" fill="none" stroke="#2DD4BF" '
         'stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>',
-        f'<text x="{graph_x}" y="492" fill="#334155" font-size="10">'
+        f'<text x="{graph_x}" y="492" fill="#47635A" font-size="10">'
         f'weekly contribution volume · peak {busiest_week} in one week</text>',
     ])
     stamp = datetime.now(timezone.utc).strftime("%d %b %Y")
     parts.append(
-        f'<text x="1172" y="492" text-anchor="end" fill="#334155" font-size="10">'
+        f'<text x="1172" y="492" text-anchor="end" fill="#47635A" font-size="10">'
         f'updated {stamp}</text></g></svg>'
     )
     return "".join(parts)
