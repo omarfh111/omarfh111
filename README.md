@@ -1,4 +1,4 @@
-<img src="assets/banner-gradient.svg" alt="Omar Fkih Hassen — dependable AI systems" width="100%" />
+<img src="assets/banner-agentic.svg" alt="Omar Fkih Hassen — Agentic and Dependable AI Engineer" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/LinkedIn-160D24?style=flat-square&logo=linkedin&logoColor=C084FC" alt="LinkedIn" /></a>
