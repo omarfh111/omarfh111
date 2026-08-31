@@ -13,18 +13,16 @@ The signature across my work is a closed engineering loop: **retrieve evidence �
 
 <img src="assets/metrics-gradient.svg" alt="Measured evidence across Omar's AI engineering projects" width="100%" />
 
-<table>
-  <tr>
-    <td align="center" width="33%"><a href="https://github.com/omarfh111/LineageGuard-AI"><img src="https://raw.githubusercontent.com/omarfh111/LineageGuard-AI/main/frontend/public/lineageguard-logo.png" height="88" alt="LineageGuard AI logo" /><br /><b>LineageGuard AI</b></a><br /><sub>Governed Data Agents</sub><br /><img src="https://img.shields.io/badge/16%2F16%20live%20claims-A855F7?style=flat-square" alt="16 of 16 live claims supported" /></td>
-    <td align="center" width="33%"><a href="https://github.com/omarfh111/BaronsMarket"><img src="https://raw.githubusercontent.com/omarfh111/BaronsMarket/main/frontend/assets/logo_app.png" height="88" alt="BaronsMarket logo" /><br /><b>BaronsMarket</b></a><br /><sub>Multimodal Smart Retail</sub><br /><img src="https://img.shields.io/badge/12%20AI%20services-F43F5E?style=flat-square" alt="12 AI and vision services" /></td>
-    <td align="center" width="33%"><a href="https://github.com/omarfh111/Gabesi-AIGuardian"><img src="https://raw.githubusercontent.com/omarfh111/Gabesi-AIGuardian/main/logo.png" height="88" alt="Gabesi AIGuardian logo" /><br /><b>Gabesi AIGuardian</b></a><br /><sub>Environmental Intelligence</sub><br /><img src="https://img.shields.io/badge/56%20tests-C084FC?style=flat-square" alt="56 passing tests" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><a href="https://github.com/omarfh111/FairTrace"><img src="https://raw.githubusercontent.com/omarfh111/FairTrace/main/frontend/public/logo1.png" height="82" alt="FairTrace logo" /><br /><b>FairTrace</b></a><br /><sub>Explainable Credit AI</sub><br /><img src="https://img.shields.io/badge/parallel%20agent%20debate-A855F7?style=flat-square" alt="Parallel agent debate" /></td>
-    <td align="center" width="33%"><a href="https://github.com/omarfh111/MarketLens"><img src="https://raw.githubusercontent.com/omarfh111/MarketLens/main/frontend/assistant/public/logo.svg" height="82" alt="MarketLens logo" /><br /><b>MarketLens</b></a><br /><sub>Agentic Retail Analytics</sub><br /><img src="https://img.shields.io/badge/Lunar%20Hack%20Top%204-F43F5E?style=flat-square" alt="Lunar Hack Top 4" /></td>
-    <td align="center" width="33%"><a href="https://github.com/omarfh111/NutriAI"><img src="https://raw.githubusercontent.com/omarfh111/NutriAI/main/frontend/public/nutrilens-logo.svg" height="82" alt="NutriAI logo" /><br /><b>NutriAI</b></a><br /><sub>Grounded Nutrition RAG</sub><br /><img src="https://img.shields.io/badge/.771%20faithfulness-C084FC?style=flat-square" alt="0.771 faithfulness" /></td>
-  </tr>
-</table>
+<img src="assets/project-constellation.svg" alt="Six flagship systems: LineageGuard AI, BaronsMarket, Gabesi AIGuardian, Sanad IBSAR, MarketLens and NutriAI" width="100%" />
+
+<p align="center">
+  <a href="https://github.com/omarfh111/LineageGuard-AI">LineageGuard</a> ·
+  <a href="https://github.com/omarfh111/BaronsMarket">BaronsMarket</a> ·
+  <a href="https://github.com/omarfh111/Gabesi-AIGuardian">Gabesi</a> ·
+  <a href="https://github.com/omarfh111/Sanad">Sanad / IBSAR</a> ·
+  <a href="https://github.com/omarfh111/MarketLens">MarketLens</a> ·
+  <a href="https://github.com/omarfh111/NutriAI">NutriAI</a>
+</p>
 
 ## Selected work
 
@@ -99,6 +97,7 @@ This is the common architecture behind the portfolio: **AI that can explain what
 
 | Project | Engineering evidence |
 |:--|:--|
+| [Sanad / IBSAR](https://github.com/omarfh111/Sanad) | Voice-first accessible banking and shopping, adaptive WCAG onboarding, Derja support and sign-language assistance; **MaraTech Top 2 overall and Top 1 technical** |
 | [NutriAI](https://github.com/omarfh111/NutriAI) | Nutrition RAG over 18,601 dishes; 51 generated-and-refined QA pairs; 0.780 context relevance and 0.771 faithfulness |
 | [MarketLens](https://github.com/omarfh111/MarketLens) | Product retrieval, campaign generation and a nine-agent retail analytics pipeline; Top 4 at Lunar Hack 2.0 |
 | [TerraGuard](https://github.com/omarfh111/TerraGuard) | Nine-agent climate audit against GRI, TCFD, IFRS and IPCC evidence; 28/28 retrieval checks |
