@@ -29,7 +29,7 @@ An evidence-first agent system for schema-change impact analysis, verified catal
 
 <img src="https://img.shields.io/badge/LangGraph-0A1526?style=flat-square&logo=langchain&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/DataHub%20MCP-0A1526?style=flat-square&logo=datahub&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/FastAPI-0A1526?style=flat-square&logo=fastapi&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Qdrant-0A1526?style=flat-square&logo=qdrant&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/React-0A1526?style=flat-square&logo=react&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Docker-0A1526?style=flat-square&logo=docker&logoColor=38BDF8" />
 
-**[▶ Live demo](https://lineageguard.hackdev.tech)** &nbsp;·&nbsp; [Testing guide](https://github.com/omarfh111/LineageGuard-AI/blob/main/docs/judge-testing.md) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/LineageGuard-AI)
+**[▶ Live demo](https://lineageguard.hackdev.tech)** &nbsp;·&nbsp; [Evidence dossier](https://github.com/omarfh111/LineageGuard-AI/blob/main/docs/live-writeback-proof.md) &nbsp;·&nbsp; [Testing guide](https://github.com/omarfh111/LineageGuard-AI/blob/main/docs/judge-testing.md) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/LineageGuard-AI)
 
 <br />
 
@@ -48,7 +48,7 @@ A complete retail system: a Flutter shopping experience, an employee operations 
 
 <img src="https://img.shields.io/badge/PyTorch-0A1526?style=flat-square&logo=pytorch&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/YOLO-0A1526?style=flat-square&logo=yolo&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Flutter-0A1526?style=flat-square&logo=flutter&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/FastAPI-0A1526?style=flat-square&logo=fastapi&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Qdrant-0A1526?style=flat-square&logo=qdrant&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Supabase-0A1526?style=flat-square&logo=supabase&logoColor=38BDF8" />
 
-[Repository](https://github.com/omarfh111/BaronsMarket)
+[Demo evidence](https://github.com/omarfh111/BaronsMarket/tree/main/docs/screenshots) &nbsp;·&nbsp; [Architecture](https://github.com/omarfh111/BaronsMarket#architecture) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/BaronsMarket)
 
 <br />
 
@@ -67,9 +67,9 @@ A regional decision-support platform for Gabès, Tunisia. It joins scientific RA
 
 <img src="https://img.shields.io/badge/LangGraph-0A1526?style=flat-square&logo=langchain&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/NASA%20POWER-0A1526?style=flat-square&logo=nasa&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Qdrant-0A1526?style=flat-square&logo=qdrant&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/GeoAI-0A1526?style=flat-square&logo=openstreetmap&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/React-0A1526?style=flat-square&logo=react&logoColor=38BDF8" />
 
-[Repository](https://github.com/omarfh111/Gabesi-AIGuardian)
+[Architecture](https://github.com/omarfh111/Gabesi-AIGuardian#2-system-overview) &nbsp;·&nbsp; [Design decisions](https://github.com/omarfh111/Gabesi-AIGuardian#design-decisions--tradeoffs) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/Gabesi-AIGuardian)
 
-## The engineering signature
+## How I build — the engineering signature
 
 | Stage | What repeats across the projects |
 |:--|:--|
@@ -92,6 +92,16 @@ This is the common architecture behind the portfolio: **AI that can explain what
 | [Engineering Copilot](https://github.com/omarfh111/engineering-copilot-ai) | React, Spring Boot and FastAPI behind explicit trust boundaries, CI and human-reviewed AI findings |
 | [DeepDrive](https://github.com/omarfh111/DeepDrive) | Automotive computer vision, specialized agents and full transaction workflows |
 
+## Selected collaborations
+
+These are shared builds whose canonical repository belongs to a teammate. They are listed separately to make ownership and collaboration explicit.
+
+| Project | Contribution context | Proof and references |
+|:--|:--|:--|
+| **Splunk Sentinel** | Collaborator on an autonomous SOC investigation platform: six agents, ReAct reconstruction, Splunk-native evidence and 425 passing tests | [▶ Demo](https://youtu.be/vdQYQY1cXFA) · [Devpost](https://devpost.com/software/splunk-sentinel) · [Canonical repository](https://github.com/Asembris/splunk-sentinel) |
+| **CareerPath Compass** | Collaborator on agentic career guidance grounded in O\*NET, BLS and Neo4j; 83.3% RAG grounded pass rate with a documented ablation | [▶ Live demo](https://careerpath-compass.vercel.app) · [Evidence](https://github.com/Asembris/CareerPathCompass#impact-metrics) · [Canonical repository](https://github.com/Asembris/CareerPathCompass) |
+| **IBSAR** | Team Barons build for voice-first banking and shopping accessibility, created with the IBSAR association | [Project context](https://github.com/Asembris/EspritMaratech2026-Barons#-présentation-du-projet) · [Canonical repository](https://github.com/Asembris/EspritMaratech2026-Barons) |
+
 ## Activity
 
 <img src="assets/activity.svg" alt="Omar Fkih Hassen's public GitHub contribution activity over the last 12 months" width="100%" />
@@ -102,12 +112,12 @@ This is the common architecture behind the portfolio: **AI that can explain what
 
 | | |
 |:--|:--|
-| **Languages** | Python · TypeScript · Java · SQL · C |
-| **Agents & LLM** | LangGraph · LangChain · CrewAI · MCP · OpenAI · Ollama |
-| **Retrieval & ML** | Qdrant · FAISS · ChromaDB · PyTorch · YOLO · CLIP · scikit-learn |
-| **Backend & Data** | FastAPI · Django · Spring Boot · PostgreSQL · Supabase · SQLite |
-| **Product** | React · Next.js · Vite · Tailwind CSS · Flutter |
-| **Delivery & Quality** | Docker · GitHub Actions · Pytest · Playwright · LangSmith · SSE |
+| **Languages** | <img src="https://img.shields.io/badge/Python-0A1526?style=flat-square&logo=python&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/TypeScript-0A1526?style=flat-square&logo=typescript&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Java-0A1526?style=flat-square&logo=openjdk&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/SQL-0A1526?style=flat-square&logo=postgresql&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/C-0A1526?style=flat-square&logo=c&logoColor=38BDF8" /> |
+| **Agents & LLM** | <img src="https://img.shields.io/badge/LangGraph-0A1526?style=flat-square&logo=langchain&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/LangChain-0A1526?style=flat-square&logo=langchain&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/CrewAI-0A1526?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-0A1526?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-0A1526?style=flat-square&logo=openai&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Ollama-0A1526?style=flat-square&logo=ollama&logoColor=38BDF8" /> |
+| **Retrieval & ML** | <img src="https://img.shields.io/badge/Qdrant-0A1526?style=flat-square&logo=qdrant&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/FAISS-0A1526?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-0A1526?style=flat-square&logo=chroma&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/PyTorch-0A1526?style=flat-square&logo=pytorch&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/YOLO-0A1526?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-0A1526?style=flat-square&logo=scikitlearn&logoColor=38BDF8" /> |
+| **Backend & Data** | <img src="https://img.shields.io/badge/FastAPI-0A1526?style=flat-square&logo=fastapi&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Django-0A1526?style=flat-square&logo=django&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Spring%20Boot-0A1526?style=flat-square&logo=springboot&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/PostgreSQL-0A1526?style=flat-square&logo=postgresql&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Supabase-0A1526?style=flat-square&logo=supabase&logoColor=38BDF8" /> |
+| **Product & Delivery** | <img src="https://img.shields.io/badge/React-0A1526?style=flat-square&logo=react&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Next.js-0A1526?style=flat-square&logo=nextdotjs&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Flutter-0A1526?style=flat-square&logo=flutter&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Docker-0A1526?style=flat-square&logo=docker&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/GitHub%20Actions-0A1526?style=flat-square&logo=githubactions&logoColor=38BDF8" /> |
+| **Observability & Quality** | <img src="https://img.shields.io/badge/LangSmith-0A1526?style=flat-square&logo=langchain&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Langfuse-0A1526?style=flat-square" /> <img src="https://img.shields.io/badge/Pytest-0A1526?style=flat-square&logo=pytest&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Playwright-0A1526?style=flat-square&logo=playwright&logoColor=38BDF8" /> |
 
 ## Background
 
@@ -119,5 +129,4 @@ This is the common architecture behind the portfolio: **AI that can explain what
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/Let's%20build%20AI%20that%20holds%20up-Connect%20on%20LinkedIn-0A1526?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="Connect on LinkedIn" /></a>
 </p>
-
 
