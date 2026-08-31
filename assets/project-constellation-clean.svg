@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" width="1200" height="580" role="img" aria-label="Six flagship AI systems by Omar Fkih Hassen">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B0714"/><stop offset=".55" stop-color="#140A21"/><stop offset="1" stop-color="#200B20"/></linearGradient>
+    <linearGradient id="violet"><stop stop-color="#C084FC"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="rose"><stop stop-color="#FB7185"/><stop offset="1" stop-color="#E11D48"/></linearGradient>
+    <linearGradient id="mixed"><stop stop-color="#A855F7"/><stop offset="1" stop-color="#F43F5E"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#A855F7" stop-opacity=".24"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#C084FC" opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="580" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="580" rx="18" fill="url(#dots)"/>
+  <rect width="1200" height="3" rx="2" fill="url(#mixed)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="39" fill="#C084FC" font-size="11" font-weight="700" letter-spacing="2.4">FLAGSHIP SYSTEMS · ONE ENGINEERING SIGNATURE</text>
+    <text x="28" y="68" fill="#F8F7FC" font-size="18" font-weight="700">Evidence → agents → policy → measured outcome</text>
+    <text x="1172" y="49" text-anchor="end" fill="#9D8BAC" font-size="11">six systems · measured depth and product breadth</text>
+
+    <!-- Card 1: LineageGuard -->
+    <g transform="translate(24 92)">
+      <rect width="368" height="210" rx="15" fill="#160D24" stroke="#3B214F"/>
+      <rect width="5" height="210" rx="3" fill="url(#violet)"/>
+      <circle cx="63" cy="64" r="42" fill="url(#halo)"/>
+      <path d="M63 25L96 40v29c0 25-17 42-33 51C47 111 30 94 30 69V40z" fill="none" stroke="#C084FC" stroke-width="4"/>
+      <path d="M45 78l14-13 11 8 15-20" fill="none" stroke="#FB7185" stroke-width="3" stroke-linecap="round"/>
+      <g fill="#F8F7FC"><circle cx="45" cy="78" r="4"/><circle cx="59" cy="65" r="4"/><circle cx="70" cy="73" r="4"/><circle cx="85" cy="53" r="4"/></g>
+      <text x="122" y="46" fill="#F8F7FC" font-size="21" font-weight="750">LineageGuard AI</text>
+      <text x="122" y="70" fill="#C084FC" font-size="11" font-weight="700" letter-spacing="1">GOVERNED DATA AGENTS</text>
+      <text x="122" y="95" fill="#9D8BAC" font-size="12">Live DataHub evidence · deterministic impact</text>
+      <text x="122" y="114" fill="#9D8BAC" font-size="12">double review · human-approved write-back</text>
+      <rect x="24" y="157" width="105" height="30" rx="15" fill="#26123A"/><text x="76" y="177" text-anchor="middle" fill="#C084FC" font-size="11" font-weight="700">16/16 CLAIMS</text>
+      <rect x="139" y="157" width="91" height="30" rx="15" fill="#26123A"/><text x="184" y="177" text-anchor="middle" fill="#E9E2EF" font-size="11">DATAHUB</text>
+      <rect x="240" y="157" width="102" height="30" rx="15" fill="#321322"/><text x="291" y="177" text-anchor="middle" fill="#FB7185" font-size="11">HUMAN GATE</text>
+    </g>
+
+    <!-- Card 2: BaronsMarket -->
+    <g transform="translate(416 92)">
+      <rect width="368" height="210" rx="15" fill="#160D24" stroke="#3B214F"/>
+      <rect width="5" height="210" rx="3" fill="url(#rose)"/>
+      <circle cx="63" cy="64" r="42" fill="url(#halo)"/>
+      <path d="M29 45h11l8 48h46l9-36H47" fill="none" stroke="#FB7185" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="58" cy="105" r="7" fill="none" stroke="#C084FC" stroke-width="4"/><circle cx="90" cy="105" r="7" fill="none" stroke="#C084FC" stroke-width="4"/>
+      <circle cx="76" cy="65" r="17" fill="#160D24" stroke="#F8F7FC" stroke-width="3"/><circle cx="76" cy="65" r="6" fill="#F43F5E"/>
+      <text x="122" y="46" fill="#F8F7FC" font-size="21" font-weight="750">BaronsMarket</text>
+      <text x="122" y="70" fill="#FB7185" font-size="11" font-weight="700" letter-spacing="1">MULTIMODAL SMART RETAIL</text>
+      <text x="122" y="95" fill="#9D8BAC" font-size="12">Vision · RAG · semantic and visual search</text>
+      <text x="122" y="114" fill="#9D8BAC" font-size="12">Flutter + employee operations + GPU backend</text>
+      <rect x="24" y="157" width="105" height="30" rx="15" fill="#321322"/><text x="76" y="177" text-anchor="middle" fill="#FB7185" font-size="11" font-weight="700">12 AI SERVICES</text>
+      <rect x="139" y="157" width="85" height="30" rx="15" fill="#26123A"/><text x="181" y="177" text-anchor="middle" fill="#E9E2EF" font-size="11">YOLO + CLIP</text>
+      <rect x="234" y="157" width="108" height="30" rx="15" fill="#26123A"/><text x="288" y="177" text-anchor="middle" fill="#C084FC" font-size="11">OPERATIONAL</text>
+    </g>
+
+    <!-- Card 3: Gabesi -->
+    <g transform="translate(808 92)">
+      <rect width="368" height="210" rx="15" fill="#160D24" stroke="#3B214F"/>
+      <rect width="5" height="210" rx="3" fill="url(#violet)"/>
+      <circle cx="63" cy="64" r="42" fill="url(#halo)"/>
+      <path d="M38 100c9-37 28-56 59-66-1 35-18 62-59 66z" fill="none" stroke="#C084FC" stroke-width="4"/>
+      <path d="M39 99c18-25 31-37 55-60M59 75l-1-20M71 63l18 2" fill="none" stroke="#FB7185" stroke-width="3" stroke-linecap="round"/>
+      <text x="122" y="46" fill="#F8F7FC" font-size="21" font-weight="750">Gabesi AIGuardian</text>
+      <text x="122" y="70" fill="#C084FC" font-size="11" font-weight="700" letter-spacing="1">ENVIRONMENTAL INTELLIGENCE</text>
+      <text x="122" y="95" fill="#9D8BAC" font-size="12">Scientific RAG · NASA signals · GeoAI</text>
+      <text x="122" y="114" fill="#9D8BAC" font-size="12">deterministic models · confidence gates</text>
+      <rect x="24" y="157" width="82" height="30" rx="15" fill="#26123A"/><text x="65" y="177" text-anchor="middle" fill="#C084FC" font-size="11" font-weight="700">56 TESTS</text>
+      <rect x="116" y="157" width="108" height="30" rx="15" fill="#26123A"/><text x="170" y="177" text-anchor="middle" fill="#E9E2EF" font-size="11">1,718 CHUNKS</text>
+      <rect x="234" y="157" width="108" height="30" rx="15" fill="#321322"/><text x="288" y="177" text-anchor="middle" fill="#FB7185" font-size="11">TOP 8 H12</text>
+    </g>
+
+    <!-- Card 4: Sanad / IBSAR -->
+    <g transform="translate(24 326)">
+      <rect width="368" height="210" rx="15" fill="#160D24" stroke="#F43F5E" stroke-opacity=".65"/>
+      <rect width="5" height="210" rx="3" fill="url(#rose)"/>
+      <circle cx="63" cy="64" r="42" fill="url(#halo)"/>
+      <rect x="52" y="29" width="22" height="52" rx="11" fill="none" stroke="#FB7185" stroke-width="4"/>
+      <path d="M40 65c0 17 9 27 23 27s23-10 23-27M63 92v18M48 110h30" fill="none" stroke="#C084FC" stroke-width="4" stroke-linecap="round"/>
+      <path d="M29 49l-9 9 9 9M97 49l9 9-9 9" fill="none" stroke="#F8F7FC" stroke-width="3" stroke-linecap="round"/>
+      <text x="122" y="46" fill="#F8F7FC" font-size="21" font-weight="750">Sanad · IBSAR</text>
+      <text x="122" y="70" fill="#FB7185" font-size="11" font-weight="700" letter-spacing="1">VOICE-FIRST ACCESSIBILITY</text>
+      <text x="122" y="95" fill="#9D8BAC" font-size="12">Hands-free banking + shopping · Derja</text>
+      <text x="122" y="114" fill="#9D8BAC" font-size="12">adaptive WCAG onboarding · sign language</text>
+      <rect x="24" y="157" width="92" height="30" rx="15" fill="#321322"/><text x="70" y="177" text-anchor="middle" fill="#FB7185" font-size="11" font-weight="700">TOP 2</text>
+      <rect x="126" y="157" width="118" height="30" rx="15" fill="#321322"/><text x="185" y="177" text-anchor="middle" fill="#F8F7FC" font-size="11">#1 TECHNICAL</text>
+      <rect x="254" y="157" width="88" height="30" rx="15" fill="#26123A"/><text x="298" y="177" text-anchor="middle" fill="#C084FC" font-size="11">MARATECH</text>
+    </g>
+
+    <!-- Card 5: MarketLens -->
+    <g transform="translate(416 326)">
+      <rect width="368" height="210" rx="15" fill="#160D24" stroke="#3B214F"/>
+      <rect width="5" height="210" rx="3" fill="url(#violet)"/>
+      <circle cx="63" cy="64" r="42" fill="url(#halo)"/>
+      <circle cx="59" cy="59" r="27" fill="none" stroke="#C084FC" stroke-width="4"/>
+      <path d="M79 79l23 23M40 70l12-13 11 7 17-20" fill="none" stroke="#FB7185" stroke-width="4" stroke-linecap="round"/>
+      <text x="122" y="46" fill="#F8F7FC" font-size="21" font-weight="750">MarketLens</text>
+      <text x="122" y="70" fill="#C084FC" font-size="11" font-weight="700" letter-spacing="1">AGENTIC RETAIL ANALYTICS</text>
+      <text x="122" y="95" fill="#9D8BAC" font-size="12">Nine-agent pipeline · product retrieval</text>
+      <text x="122" y="114" fill="#9D8BAC" font-size="12">campaign generation · business intelligence</text>
+      <rect x="24" y="157" width="115" height="30" rx="15" fill="#321322"/><text x="81" y="177" text-anchor="middle" fill="#FB7185" font-size="11" font-weight="700">TOP 4 LUNAR</text>
+      <rect x="149" y="157" width="86" height="30" rx="15" fill="#26123A"/><text x="192" y="177" text-anchor="middle" fill="#E9E2EF" font-size="11">9 AGENTS</text>
+      <rect x="245" y="157" width="97" height="30" rx="15" fill="#26123A"/><text x="293" y="177" text-anchor="middle" fill="#C084FC" font-size="11">QDRANT</text>
+    </g>
+
+    <!-- Card 6: NutriAI -->
+    <g transform="translate(808 326)">
+      <rect width="368" height="210" rx="15" fill="#160D24" stroke="#3B214F"/>
+      <rect width="5" height="210" rx="3" fill="url(#rose)"/>
+      <circle cx="63" cy="64" r="42" fill="url(#halo)"/>
+      <circle cx="54" cy="57" r="27" fill="none" stroke="#FB7185" stroke-width="4"/>
+      <path d="M74 77l25 25M54 38c18 7 22 26 0 39-22-13-18-32 0-39zM54 42v31" fill="none" stroke="#C084FC" stroke-width="3" stroke-linecap="round"/>
+      <text x="122" y="46" fill="#F8F7FC" font-size="21" font-weight="750">NutriAI</text>
+      <text x="122" y="70" fill="#FB7185" font-size="11" font-weight="700" letter-spacing="1">GROUNDED NUTRITION RAG</text>
+      <text x="122" y="95" fill="#9D8BAC" font-size="12">18,601 dishes · refined evaluation set</text>
+      <text x="122" y="114" fill="#9D8BAC" font-size="12">retrieval quality measured, not assumed</text>
+      <rect x="24" y="157" width="102" height="30" rx="15" fill="#321322"/><text x="75" y="177" text-anchor="middle" fill="#FB7185" font-size="11" font-weight="700">.771 FAITH.</text>
+      <rect x="136" y="157" width="104" height="30" rx="15" fill="#26123A"/><text x="188" y="177" text-anchor="middle" fill="#E9E2EF" font-size="11">51 QA PAIRS</text>
+      <rect x="250" y="157" width="92" height="30" rx="15" fill="#26123A"/><text x="296" y="177" text-anchor="middle" fill="#C084FC" font-size="11">CREWAI</text>
+    </g>
+  </g>
+  <g aria-hidden="true" pointer-events="none">
+    <path d="M392 312H416M784 312H808M208 302V326M600 302V326M992 302V326" fill="none" stroke="#A855F7" stroke-width="2" stroke-dasharray="4 8" opacity=".55">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <rect x="24" y="92" width="1152" height="2" rx="1" fill="url(#mixed)" opacity="0">
+      <animate attributeName="y" values="92;535;92" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.32;0" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="none" stroke-width="2">
+      <circle cx="87" cy="156" r="45" stroke="#A855F7"><animate attributeName="r" values="43;50;43" dur="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.38;.05" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="479" cy="156" r="45" stroke="#F43F5E"><animate attributeName="r" values="43;50;43" dur="3.6s" begin=".6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.38;.05" dur="3.6s" begin=".6s" repeatCount="indefinite"/></circle>
+      <circle cx="871" cy="156" r="45" stroke="#A855F7"><animate attributeName="r" values="43;50;43" dur="3.6s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.38;.05" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="87" cy="390" r="45" stroke="#F43F5E"><animate attributeName="r" values="43;50;43" dur="3.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.38;.05" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="479" cy="390" r="45" stroke="#A855F7"><animate attributeName="r" values="43;50;43" dur="3.6s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.38;.05" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="871" cy="390" r="45" stroke="#F43F5E"><animate attributeName="r" values="43;50;43" dur="3.6s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".05;.38;.05" dur="3.6s" begin="3s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>
+
