@@ -1,4 +1,4 @@
-<img src="assets/banner-agentic.svg" alt="Omar Fkih Hassen — Agentic and Dependable AI Engineer" width="100%" />
+<img src="assets/banner-agentic-clean.svg" alt="Omar Fkih Hassen — Agentic and Dependable AI Engineer" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/LinkedIn-160D24?style=flat-square&logo=linkedin&logoColor=C084FC" alt="LinkedIn" /></a>
@@ -11,9 +11,9 @@ I build AI systems for problems where **a plausible answer is not enough** — g
 
 The signature across my work is a closed engineering loop: **retrieve evidence → let specialized agents reason → enforce critical rules in code → keep a human at the authority boundary → observe and evaluate the result.** The model is one component inside a typed, testable system; it is never the whole system.
 
-<img src="assets/metrics-motion.svg" alt="Animated evidence ledger across Omar's AI engineering projects" width="100%" />
+<img src="assets/metrics-clean.svg" alt="Animated evidence ledger without moving points" width="100%" />
 
-<img src="assets/project-constellation-motion.svg" alt="Animated constellation of six flagship AI systems" width="100%" />
+<img src="assets/project-constellation-clean.svg" alt="Animated constellation of six flagship AI systems without moving points" width="100%" />
 
 <p align="center">
   <a href="https://github.com/omarfh111/LineageGuard-AI">LineageGuard</a> ·
@@ -30,7 +30,7 @@ The signature across my work is a closed engineering loop: **retrieve evidence �
 
 An evidence-first agent system for schema-change impact analysis, verified catalog answers, and human-approved documentation write-back. Vector search can nominate a candidate; only live DataHub MCP reads can establish a fact. A deterministic engine computes blast radius and remediation, two independent judges review the immutable dossier, and the human owns the only write path.
 
-<img src="assets/pipe-lineage-motion.svg" alt="Animated LineageGuard flow: request, retrieval, live DataHub evidence, deterministic impact analysis, independent review, human approval and scoped write-back" width="100%" />
+<img src="assets/pipe-lineage-clean.svg" alt="Animated LineageGuard flow without moving points" width="100%" />
 
 | | |
 |:--|:--|
@@ -49,7 +49,7 @@ An evidence-first agent system for schema-change impact analysis, verified catal
 
 A complete retail system: a Flutter shopping experience, an employee operations console, and a GPU-ready FastAPI backend orchestrating **12 AI and computer-vision services**. The platform connects perception to operations — product recognition, freshness, queues, theft events, document integrity, employee access, semantic search, checkout and analytics.
 
-<img src="assets/pipe-barons-violet.svg" alt="BaronsMarket flow: mobile and employee interfaces, FastAPI orchestration, computer vision and RAG services, operational results" width="100%" />
+<img src="assets/pipe-barons-clean.svg" alt="Animated BaronsMarket flow without moving points" width="100%" />
 
 | | |
 |:--|:--|
@@ -68,7 +68,7 @@ A complete retail system: a Flutter shopping experience, an employee operations 
 
 A regional decision-support platform for Gabès, Tunisia. It joins scientific RAG, live NASA and atmospheric data, geospatial analysis, deterministic environmental models, community alerts, energy projections, and medical triage — without pretending every problem should be solved by an LLM.
 
-<img src="assets/pipe-gabesi-violet.svg" alt="Gabesi AIGuardian flow: live and scientific evidence, specialist modules, guardrails, deterministic models and operator-facing decisions" width="100%" />
+<img src="assets/pipe-gabesi-clean.svg" alt="Animated Gabesi AIGuardian flow without moving points" width="100%" />
 
 | | |
 |:--|:--|
@@ -87,7 +87,7 @@ A regional decision-support platform for Gabès, Tunisia. It joins scientific RA
 
 An inclusive platform built with the IBSAR association for people with visual, hearing, or mobility disabilities. Sanad turns banking, shopping, navigation, and confirmations into a hands-free conversational journey, while adapting the interface to each user's accessibility profile.
 
-<img src="assets/pipe-sanad.svg" alt="Sanad flow: voice input, adaptive accessibility profile, intent agent, banking and shopping tools, explicit confirmation, accessible speech captions and sign-language output" width="100%" />
+<img src="assets/pipe-sanad-clean.svg" alt="Animated Sanad accessibility flow without moving points" width="100%" />
 
 | | |
 |:--|:--|
