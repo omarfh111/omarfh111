@@ -11,9 +11,9 @@ I build AI systems for problems where **a plausible answer is not enough** — g
 
 The signature across my work is a closed engineering loop: **retrieve evidence → let specialized agents reason → enforce critical rules in code → keep a human at the authority boundary → observe and evaluate the result.** The model is one component inside a typed, testable system; it is never the whole system.
 
-<img src="assets/metrics-gradient.svg" alt="Measured evidence across Omar's AI engineering projects" width="100%" />
+<img src="assets/metrics-motion.svg" alt="Animated evidence ledger across Omar's AI engineering projects" width="100%" />
 
-<img src="assets/project-constellation.svg" alt="Six flagship systems: LineageGuard AI, BaronsMarket, Gabesi AIGuardian, Sanad IBSAR, MarketLens and NutriAI" width="100%" />
+<img src="assets/project-constellation-motion.svg" alt="Animated constellation of six flagship AI systems" width="100%" />
 
 <p align="center">
   <a href="https://github.com/omarfh111/LineageGuard-AI">LineageGuard</a> ·
@@ -30,7 +30,7 @@ The signature across my work is a closed engineering loop: **retrieve evidence �
 
 An evidence-first agent system for schema-change impact analysis, verified catalog answers, and human-approved documentation write-back. Vector search can nominate a candidate; only live DataHub MCP reads can establish a fact. A deterministic engine computes blast radius and remediation, two independent judges review the immutable dossier, and the human owns the only write path.
 
-<img src="assets/pipe-lineage-violet.svg" alt="LineageGuard flow: request, retrieval, live DataHub evidence, deterministic impact analysis, independent review, human approval and scoped write-back" width="100%" />
+<img src="assets/pipe-lineage-motion.svg" alt="Animated LineageGuard flow: request, retrieval, live DataHub evidence, deterministic impact analysis, independent review, human approval and scoped write-back" width="100%" />
 
 | | |
 |:--|:--|
@@ -81,6 +81,25 @@ A regional decision-support platform for Gabès, Tunisia. It joins scientific RA
 
 [Architecture](https://github.com/omarfh111/Gabesi-AIGuardian#2-system-overview) &nbsp;·&nbsp; [Design decisions](https://github.com/omarfh111/Gabesi-AIGuardian#design-decisions--tradeoffs) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/Gabesi-AIGuardian)
 
+<br />
+
+<h3><img src="https://raw.githubusercontent.com/omarfh111/Sanad/main/assets/ibsar-logo.png" height="46" align="center" alt="IBSAR logo" /> <a href="https://github.com/omarfh111/Sanad">Sanad / IBSAR</a> <sub>· Voice-first financial autonomy</sub></h3>
+
+An inclusive platform built with the IBSAR association for people with visual, hearing, or mobility disabilities. Sanad turns banking, shopping, navigation, and confirmations into a hands-free conversational journey, while adapting the interface to each user's accessibility profile.
+
+<img src="assets/pipe-sanad.svg" alt="Sanad flow: voice input, adaptive accessibility profile, intent agent, banking and shopping tools, explicit confirmation, accessible speech captions and sign-language output" width="100%" />
+
+| | |
+|:--|:--|
+| **Voice-first product** | French and Tunisian Derja commands, always-listening mode, contextual correction, TTS and zero-click navigation |
+| **Adaptive accessibility** | Vision, hearing and typography onboarding; keyboard and screen-reader support aligned with WCAG 2.1 |
+| **Agentic services** | LangGraph and LangChain route verified intents to banking, shopping, budget and navigation tools |
+| **Recognition** | **MaraTech 2026 — Top 2 overall and Top 1 technical**, built by Team Barons with the IBSAR association |
+
+<img src="https://img.shields.io/badge/LangGraph-160D24?style=flat-square&logo=langchain&logoColor=C084FC" /> <img src="https://img.shields.io/badge/Voice%20AI-160D24?style=flat-square&logo=googleassistant&logoColor=C084FC" /> <img src="https://img.shields.io/badge/Next.js-160D24?style=flat-square&logo=nextdotjs&logoColor=C084FC" /> <img src="https://img.shields.io/badge/FastAPI-160D24?style=flat-square&logo=fastapi&logoColor=C084FC" /> <img src="https://img.shields.io/badge/Qdrant-160D24?style=flat-square&logo=qdrant&logoColor=C084FC" /> <img src="https://img.shields.io/badge/WCAG%202.1-160D24?style=flat-square&logo=w3c&logoColor=FB7185" />
+
+[Project repository](https://github.com/omarfh111/Sanad) &nbsp;·&nbsp; [Team repository](https://github.com/Asembris/EspritMaratech2026-Barons) &nbsp;·&nbsp; [Feature guide](https://github.com/omarfh111/Sanad#-fonctionnalités-clés)
+
 ## How I build — the engineering signature
 
 | Stage | What repeats across the projects |
@@ -97,7 +116,6 @@ This is the common architecture behind the portfolio: **AI that can explain what
 
 | Project | Engineering evidence |
 |:--|:--|
-| [Sanad / IBSAR](https://github.com/omarfh111/Sanad) | Voice-first accessible banking and shopping, adaptive WCAG onboarding, Derja support and sign-language assistance; **MaraTech Top 2 overall and Top 1 technical** |
 | [NutriAI](https://github.com/omarfh111/NutriAI) | Nutrition RAG over 18,601 dishes; 51 generated-and-refined QA pairs; 0.780 context relevance and 0.771 faithfulness |
 | [MarketLens](https://github.com/omarfh111/MarketLens) | Product retrieval, campaign generation and a nine-agent retail analytics pipeline; Top 4 at Lunar Hack 2.0 |
 | [TerraGuard](https://github.com/omarfh111/TerraGuard) | Nine-agent climate audit against GRI, TCFD, IFRS and IPCC evidence; 28/28 retrieval checks |
