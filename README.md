@@ -1,10 +1,10 @@
-<img src="assets/banner.svg" alt="Omar Fkih Hassen — AI engineer building evidence-grounded agent systems" width="100%" />
+<img src="assets/banner.svg" alt="Omar Fkih Hassen — dependable AI systems" width="100%" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/LinkedIn-101A17?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
-  <a href="mailto:fkihhassen.omar111@gmail.com"><img src="https://img.shields.io/badge/Email-fkihhassen.omar111%40gmail.com-101A17?style=flat-square&logo=gmail&logoColor=F59E0B" alt="Email Omar Fkih Hassen" /></a>
-  <img src="https://img.shields.io/badge/Tunis%2C%20Tunisia-101A17?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="Tunis, Tunisia" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Engineering-101A17?style=flat-square&logo=openai&logoColor=2DD4BF" alt="AI and Computer Engineering" />
+  <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/LinkedIn-160D24?style=flat-square&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+  <a href="mailto:fkihhassen.omar111@gmail.com"><img src="https://img.shields.io/badge/Email-fkihhassen.omar111%40gmail.com-160D24?style=flat-square&logo=gmail&logoColor=F59E0B" alt="Email Omar Fkih Hassen" /></a>
+  <img src="https://img.shields.io/badge/Tunis%2C%20Tunisia-160D24?style=flat-square&logo=googlemaps&logoColor=2DD4BF" alt="Tunis, Tunisia" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Engineering-160D24?style=flat-square&logo=openai&logoColor=2DD4BF" alt="AI and Computer Engineering" />
 </p>
 
 I build AI systems for problems where **a plausible answer is not enough** — governed data changes, retail operations, environmental risk, finance, nutrition, and accessibility.
@@ -12,6 +12,17 @@ I build AI systems for problems where **a plausible answer is not enough** — g
 The signature across my work is a closed engineering loop: **retrieve evidence → let specialized agents reason → enforce critical rules in code → keep a human at the authority boundary → observe and evaluate the result.** The model is one component inside a typed, testable system; it is never the whole system.
 
 <img src="assets/metrics.svg" alt="Measured evidence across Omar's AI engineering projects" width="100%" />
+
+<table>
+  <tr>
+    <td align="center" width="16.6%"><a href="https://github.com/omarfh111/LineageGuard-AI"><img src="https://raw.githubusercontent.com/omarfh111/LineageGuard-AI/main/frontend/public/lineageguard-logo.png" height="62" alt="LineageGuard AI logo" /><br /><sub><b>LineageGuard</b></sub></a></td>
+    <td align="center" width="16.6%"><a href="https://github.com/omarfh111/BaronsMarket"><img src="https://raw.githubusercontent.com/omarfh111/BaronsMarket/main/frontend/assets/logo_app.png" height="62" alt="BaronsMarket logo" /><br /><sub><b>BaronsMarket</b></sub></a></td>
+    <td align="center" width="16.6%"><a href="https://github.com/omarfh111/Gabesi-AIGuardian"><img src="https://raw.githubusercontent.com/omarfh111/Gabesi-AIGuardian/main/logo.png" height="62" alt="Gabesi AIGuardian logo" /><br /><sub><b>Gabesi</b></sub></a></td>
+    <td align="center" width="16.6%"><a href="https://github.com/omarfh111/FairTrace"><img src="https://raw.githubusercontent.com/omarfh111/FairTrace/main/frontend/public/logo1.png" height="62" alt="FairTrace logo" /><br /><sub><b>FairTrace</b></sub></a></td>
+    <td align="center" width="16.6%"><a href="https://github.com/omarfh111/MarketLens"><img src="https://raw.githubusercontent.com/omarfh111/MarketLens/main/frontend/assistant/public/logo.svg" height="62" alt="MarketLens logo" /><br /><sub><b>MarketLens</b></sub></a></td>
+    <td align="center" width="16.6%"><a href="https://github.com/omarfh111/NutriAI"><img src="https://raw.githubusercontent.com/omarfh111/NutriAI/main/frontend/public/nutrilens-logo.svg" height="62" alt="NutriAI logo" /><br /><sub><b>NutriAI</b></sub></a></td>
+  </tr>
+</table>
 
 ## Selected work
 
@@ -28,7 +39,7 @@ An evidence-first agent system for schema-change impact analysis, verified catal
 | **Safety** | Double review, capability checks, idempotency, compare-and-swap and uncertain-outcome reconciliation |
 | **Reproducibility** | Docker Compose, deterministic tests, browser E2E, CI and a public judge guide |
 
-<img src="https://img.shields.io/badge/LangGraph-101A17?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/DataHub%20MCP-101A17?style=flat-square&logo=datahub&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/FastAPI-101A17?style=flat-square&logo=fastapi&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Qdrant-101A17?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/React-101A17?style=flat-square&logo=react&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Docker-101A17?style=flat-square&logo=docker&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/LangGraph-160D24?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/DataHub%20MCP-160D24?style=flat-square&logo=datahub&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/FastAPI-160D24?style=flat-square&logo=fastapi&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Qdrant-160D24?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/React-160D24?style=flat-square&logo=react&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Docker-160D24?style=flat-square&logo=docker&logoColor=2DD4BF" />
 
 **[▶ Live demo](https://lineageguard.hackdev.tech)** &nbsp;·&nbsp; [Evidence dossier](https://github.com/omarfh111/LineageGuard-AI/blob/main/docs/live-writeback-proof.md) &nbsp;·&nbsp; [Testing guide](https://github.com/omarfh111/LineageGuard-AI/blob/main/docs/judge-testing.md) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/LineageGuard-AI)
 
@@ -47,7 +58,7 @@ A complete retail system: a Flutter shopping experience, an employee operations 
 | **Agent design** | Router and specialist agents constrained to products in the real catalog |
 | **Product surface** | Flutter mobile app, employee dashboard, async video jobs and store analytics |
 
-<img src="https://img.shields.io/badge/PyTorch-101A17?style=flat-square&logo=pytorch&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/YOLO-101A17?style=flat-square&logo=yolo&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Flutter-101A17?style=flat-square&logo=flutter&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/FastAPI-101A17?style=flat-square&logo=fastapi&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Qdrant-101A17?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Supabase-101A17?style=flat-square&logo=supabase&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/PyTorch-160D24?style=flat-square&logo=pytorch&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/YOLO-160D24?style=flat-square&logo=yolo&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Flutter-160D24?style=flat-square&logo=flutter&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/FastAPI-160D24?style=flat-square&logo=fastapi&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Qdrant-160D24?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Supabase-160D24?style=flat-square&logo=supabase&logoColor=2DD4BF" />
 
 [Demo evidence](https://github.com/omarfh111/BaronsMarket/tree/main/docs/screenshots) &nbsp;·&nbsp; [Architecture](https://github.com/omarfh111/BaronsMarket#architecture) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/BaronsMarket)
 
@@ -66,7 +77,7 @@ A regional decision-support platform for Gabès, Tunisia. It joins scientific RA
 | **Safety** | Four-layer guardrails, faithfulness verification and confidence-gated medical routing |
 | **Validation** | 56 passing tests; Top 8 at H12 Innovation 3.0 — AI Healing Gabès |
 
-<img src="https://img.shields.io/badge/LangGraph-101A17?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/NASA%20POWER-101A17?style=flat-square&logo=nasa&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Qdrant-101A17?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/GeoAI-101A17?style=flat-square&logo=openstreetmap&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/React-101A17?style=flat-square&logo=react&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/LangGraph-160D24?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/NASA%20POWER-160D24?style=flat-square&logo=nasa&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Qdrant-160D24?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/GeoAI-160D24?style=flat-square&logo=openstreetmap&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/React-160D24?style=flat-square&logo=react&logoColor=2DD4BF" />
 
 [Architecture](https://github.com/omarfh111/Gabesi-AIGuardian#2-system-overview) &nbsp;·&nbsp; [Design decisions](https://github.com/omarfh111/Gabesi-AIGuardian#design-decisions--tradeoffs) &nbsp;·&nbsp; [Repository](https://github.com/omarfh111/Gabesi-AIGuardian)
 
@@ -113,12 +124,12 @@ These are shared builds whose canonical repository belongs to a teammate. They a
 
 | | |
 |:--|:--|
-| **Languages** | <img src="https://img.shields.io/badge/Python-101A17?style=flat-square&logo=python&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/TypeScript-101A17?style=flat-square&logo=typescript&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Java-101A17?style=flat-square&logo=openjdk&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/SQL-101A17?style=flat-square&logo=postgresql&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/C-101A17?style=flat-square&logo=c&logoColor=2DD4BF" /> |
-| **Agents & LLM** | <img src="https://img.shields.io/badge/LangGraph-101A17?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/LangChain-101A17?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/CrewAI-101A17?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-101A17?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-101A17?style=flat-square&logo=openai&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Ollama-101A17?style=flat-square&logo=ollama&logoColor=2DD4BF" /> |
-| **Retrieval & ML** | <img src="https://img.shields.io/badge/Qdrant-101A17?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/FAISS-101A17?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-101A17?style=flat-square&logo=chroma&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/PyTorch-101A17?style=flat-square&logo=pytorch&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/YOLO-101A17?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-101A17?style=flat-square&logo=scikitlearn&logoColor=2DD4BF" /> |
-| **Backend & Data** | <img src="https://img.shields.io/badge/FastAPI-101A17?style=flat-square&logo=fastapi&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Django-101A17?style=flat-square&logo=django&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Spring%20Boot-101A17?style=flat-square&logo=springboot&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/PostgreSQL-101A17?style=flat-square&logo=postgresql&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Supabase-101A17?style=flat-square&logo=supabase&logoColor=2DD4BF" /> |
-| **Product & Delivery** | <img src="https://img.shields.io/badge/React-101A17?style=flat-square&logo=react&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Next.js-101A17?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Flutter-101A17?style=flat-square&logo=flutter&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Docker-101A17?style=flat-square&logo=docker&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/GitHub%20Actions-101A17?style=flat-square&logo=githubactions&logoColor=2DD4BF" /> |
-| **Observability & Quality** | <img src="https://img.shields.io/badge/LangSmith-101A17?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Langfuse-101A17?style=flat-square" /> <img src="https://img.shields.io/badge/Pytest-101A17?style=flat-square&logo=pytest&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Playwright-101A17?style=flat-square&logo=playwright&logoColor=2DD4BF" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-160D24?style=flat-square&logo=python&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/TypeScript-160D24?style=flat-square&logo=typescript&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Java-160D24?style=flat-square&logo=openjdk&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/SQL-160D24?style=flat-square&logo=postgresql&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/C-160D24?style=flat-square&logo=c&logoColor=2DD4BF" /> |
+| **Agents & LLM** | <img src="https://img.shields.io/badge/LangGraph-160D24?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/LangChain-160D24?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/CrewAI-160D24?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-160D24?style=flat-square" /> <img src="https://img.shields.io/badge/OpenAI-160D24?style=flat-square&logo=openai&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Ollama-160D24?style=flat-square&logo=ollama&logoColor=2DD4BF" /> |
+| **Retrieval & ML** | <img src="https://img.shields.io/badge/Qdrant-160D24?style=flat-square&logo=qdrant&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/FAISS-160D24?style=flat-square" /> <img src="https://img.shields.io/badge/ChromaDB-160D24?style=flat-square&logo=chroma&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/PyTorch-160D24?style=flat-square&logo=pytorch&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/YOLO-160D24?style=flat-square" /> <img src="https://img.shields.io/badge/scikit--learn-160D24?style=flat-square&logo=scikitlearn&logoColor=2DD4BF" /> |
+| **Backend & Data** | <img src="https://img.shields.io/badge/FastAPI-160D24?style=flat-square&logo=fastapi&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Django-160D24?style=flat-square&logo=django&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Spring%20Boot-160D24?style=flat-square&logo=springboot&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/PostgreSQL-160D24?style=flat-square&logo=postgresql&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Supabase-160D24?style=flat-square&logo=supabase&logoColor=2DD4BF" /> |
+| **Product & Delivery** | <img src="https://img.shields.io/badge/React-160D24?style=flat-square&logo=react&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Next.js-160D24?style=flat-square&logo=nextdotjs&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Flutter-160D24?style=flat-square&logo=flutter&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Docker-160D24?style=flat-square&logo=docker&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/GitHub%20Actions-160D24?style=flat-square&logo=githubactions&logoColor=2DD4BF" /> |
+| **Observability & Quality** | <img src="https://img.shields.io/badge/LangSmith-160D24?style=flat-square&logo=langchain&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Langfuse-160D24?style=flat-square" /> <img src="https://img.shields.io/badge/Pytest-160D24?style=flat-square&logo=pytest&logoColor=2DD4BF" /> <img src="https://img.shields.io/badge/Playwright-160D24?style=flat-square&logo=playwright&logoColor=2DD4BF" /> |
 
 ## Background
 
@@ -128,7 +139,7 @@ These are shared builds whose canonical repository belongs to a teammate. They a
 - Interested in agent reliability, multimodal systems, RAG evaluation and human-controlled automation
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/Let's%20build%20AI%20that%20holds%20up-Connect%20on%20LinkedIn-101A17?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:fkihhassen.omar111@gmail.com"><img src="https://img.shields.io/badge/Email-fkihhassen.omar111%40gmail.com-101A17?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email Omar Fkih Hassen" /></a>
+  <a href="https://www.linkedin.com/in/omar-fkihhassen/"><img src="https://img.shields.io/badge/Let's%20build%20AI%20that%20holds%20up-Connect%20on%20LinkedIn-160D24?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:fkihhassen.omar111@gmail.com"><img src="https://img.shields.io/badge/Email-fkihhassen.omar111%40gmail.com-160D24?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email Omar Fkih Hassen" /></a>
 </p>
 
